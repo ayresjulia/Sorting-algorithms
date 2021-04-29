@@ -1,3 +1,3 @@
-function insertionSort() {}
+function insertionSort () {}
 
 module.exports = insertionSort;
